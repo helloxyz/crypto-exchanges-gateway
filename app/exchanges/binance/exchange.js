@@ -1,5 +1,5 @@
 "use strict";
-const Api = require('../../node_modules_fork/binance');
+const Api = require('../../node_modules_fork/binance.lib/binance.js');
 const logger = require('winston');
 const _ = require('lodash');
 const Big = require('big.js');
